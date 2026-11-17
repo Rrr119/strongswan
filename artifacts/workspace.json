@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid23211",
+  "B": "/home/dev/feedback/uid23211",
+  "sha": "eab0c41968e18e78e9598596827bf1ce910658ca",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "strongswan",
+    "repo": "strongswan",
+    "sha": "eab0c41968e18e78e9598596827bf1ce910658ca"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "strongswan",
+    "cloneUrl": "https://github.com/Rrr119/strongswan.git"
+  },
+  "at": "2026-11-17T01:38:37.158Z"
+}
